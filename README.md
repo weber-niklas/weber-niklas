@@ -17,7 +17,7 @@
   - I did Judo for 12 years and Wrestling for one
   - Albuquerque, New Mexico (Main stage of Breaking Bad) was my home town for a year, studying abroad
 
-[![Niklas' GitHub stats](https://github-readme-stats.vercel.app/api?username=weber-niklas)](https://github.com/anuraghazra/github-readme-stats)
+[![Niklas' GitHub stats](https://github-readme-stats.vercel.app/api?username=weber-niklas&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
