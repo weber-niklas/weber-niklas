@@ -12,7 +12,7 @@
 - 💬 Ask me about:
   - robotics
 - 📫 How to reach me:
-  - email: niklas.weber@mailbox.tu-dresden.de
+  - email: niklas.weber2@mailbox.tu-dresden.de
 - ⚡ Fun facts:
   - Dancing (especially Salsa) fills me with joy
   - I did Judo for 12 years and Wrestling for one
