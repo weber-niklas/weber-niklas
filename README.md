@@ -8,7 +8,7 @@
   - controlling [Franka](https://www.franka.de/) Panda robots as a student software engineer at [Fraunhofer eas/iis](https://www.eas.iis.fraunhofer.de/en.html)
 - 🌱 I’m currently learning:
   - [ROS2](https://github.com/ros2/ros2)
-  - Python, C++
+  - Python, C, C++
 - 💬 Ask me about:
   - robotics
 - 📫 How to reach me:
