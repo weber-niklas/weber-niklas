@@ -4,13 +4,13 @@
 ... an electrical engineering student at TU Dresden.
 
 - 🔭 I’m currently working on:
-  - the [Eurobot 2023](https://www.eurobot.org/eurobot-contest/eurobot-2023/) competition with my team the TU Dresden Robotics Group ([TURAG](https://turag.de/))
+  - the [Eurobot 2024](https://www.eurobot.org/eurobot-contest/eurobot-2024/) competition with my team the TU Dresden Robotics Group ([TURAG](https://turag.de/))
   - controlling [Franka](https://www.franka.de/) Panda robots as a student software engineer at [Fraunhofer eas/iis](https://www.eas.iis.fraunhofer.de/en.html)
 - 🌱 I’m currently learning:
   - [ROS2](https://github.com/ros2/ros2)
   - Python, C, C++
 - 💬 Ask me about:
-  - robotics
+  - robotics, ROS2
 - 📫 How to reach me:
   - email: niklas.weber2@mailbox.tu-dresden.de
 - ⚡ Fun facts:
