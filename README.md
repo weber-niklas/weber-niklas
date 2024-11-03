@@ -5,14 +5,9 @@
 
 - 🔭 I’m currently working on:
   - the [Eurobot 2025](https://www.eurobot.org/eurobot-contest/eurobot-2025/) competition with my team the TU Dresden Robotics Group ([TURAG](https://turag.de/))
-  - controlling [Franka](https://www.franka.de/) Panda robots as a student software engineer at [Fraunhofer eas/iis](https://www.eas.iis.fraunhofer.de/en.html)
 - 🌱 I’m currently learning:
   - [ROS2](https://github.com/ros2/ros2)
   - Python, C, C++
-- 💬 Ask me about:
-  - robotics, ROS2
-- 📫 How to reach me:
-  - email: niklas.weber2@mailbox.tu-dresden.de
 - ⚡ Fun facts:
   - Dancing (especially Salsa) fills me with joy
   - I did Judo for 12 years and Wrestling for one
